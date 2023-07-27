@@ -11,12 +11,8 @@
             "id": "b4f08bb4e9ede0cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +141,12 @@
   },
   "active": "b4f08bb4e9ede0cd",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Capitulo III(Miercoles).md",
+    "Capitulo II()Martes.md",
+    "Capitulo I(Lunes).md",
     "README.md",
+    "Capitulo I.md",
+    "Untitled.canvas",
     "Tipos de Datos.md",
     "Untitled 1.md"
   ]

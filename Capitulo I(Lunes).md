@@ -1,11 +1,11 @@
-<h1>Capacitación de IA</h1>
+<h1>Semana de Actualización.</h1>
 <h5>Nombre: Kevin Quito</h5>
 <hr>
 <h2> NATIVOS DIGITALES Y SU IQ</h2>
 
 <p>Los nativos digitales son los primeros niños con un coeficiente intelectual más bajo que sus padres.</p>
 
-![Texto alternativo](https://c.files.bbci.co.uk/103B2/production/_114928466_gettyimages-843840540.jpg)
+![](https://c.files.bbci.co.uk/103B2/production/_114928466_gettyimages-843840540.jpg)
 
 <h4>Michel Desmurget</h4>
 
@@ -93,80 +93,4 @@ Se desempeño un papel crucial en el desarrollo, distribución y seguimiento de 
 ![](https://elglobal.es/wp-content/uploads/2020/12/GettyImages-1220059380.jpg)
 
 <hr>
-
-<h1>PYTHON</h1>
-
-<p>Es un lenguaje de programación poderoso, versátil y accesible que ha demostrado ser una herramienta valiosa para una amplia gama de aplicaciones. Su facilidad de uso, legibilidad del código y comunidad activa lo convierten en una opción atractiva tanto para principiantes como para desarrolladores experimentados que buscan una solución eficiente y efectiva para sus proyectos.</p>
-
-![](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x)
-
-<h5> - Métodos: </h5> 
-
-- len(): Devuelve la longitud de una secuencia.
-  
- ```
- cadena = "Hola, mundo!"
-longitud = len(cadena)
-print(longitud)  # Salida: 12
- ```
-
-
-- input(): Permite al usuario ingresar datos desde la consola.
-
- ```
- nombre = input("Ingrese su nombre: ")
-print("¡Hola,", nombre, "!")
- ```
-
-- range(): Genera una secuencia de números enteros dentro de un rango especificado.
-
- ```
- for num in range(1, 6):
-    print(num)
-# Salida:
-# 1
-# 2
-# 3
-# 4
-# 5
-```
-- int(), float(): Funciones para convertir valores a enteros, números de punto flotante o cadenas.
-
-```
-num_str = "10"
-num_int = int(num_str)
-print(num_int + 5)  # Salida: 15
-
-num_float = float(num_str)
-print(num_float / 2)  # Salida: 5.0
-```
-- max(), min(): Devuelve el valor máximo o mínimo en una secuencia.
-
-```
-numeros = [10, 5, 15, 20, 3]
-maximo = max(numeros)
-minimo = min(numeros)
-print(maximo)  # Salida: 20
-print(minimo)  # Salida: 3
-```
-
-- sorted(): Devuelve una lista ordenada de elementos de una secuencia.
-
-```
-numeros = [10, 5, 15, 20, 3]
-numeros_ordenados = sorted(numeros)
-print(numeros_ordenados)  # Salida: [3, 5, 10, 15, 20]
-```
-
-- sum(): Devuelve la suma de los elementos en una secuencia numérica.
-
-```
-numeros = [1, 2, 3, 4, 5]
-suma_total = sum(numeros)
-print(suma_total)  # Salida: 15
-```
-
-<hr>
-
-
 
