@@ -1,6 +1,7 @@
 <h1>Semana de Actualización.</h1>
 <h5>Nombre: Kevin Quito</h5>
 <hr>
+<h5>Capítulo I.</h5>
 <h2> NATIVOS DIGITALES Y SU IQ</h2>
 
 <p>Los nativos digitales son los primeros niños con un coeficiente intelectual más bajo que sus padres.</p>
