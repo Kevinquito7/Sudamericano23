@@ -11,8 +11,10 @@
             "id": "b4f08bb4e9ede0cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "image-9.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "image-9.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "image-9.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "image-9.png"
+              }
             }
           }
         ]
@@ -141,9 +147,12 @@
   },
   "active": "b4f08bb4e9ede0cd",
   "lastOpenFiles": [
+    "image-10.png",
+    "Capitulo IV(Jueves).md",
     "Capitulo III(Miercoles).md",
-    "Capitulo II()Martes.md",
+    "Capitulo II(Martes).md",
     "Capitulo I(Lunes).md",
+    "Capitulo II()Martes.md",
     "README.md",
     "Capitulo I.md",
     "Untitled.canvas",
